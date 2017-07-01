@@ -58,7 +58,7 @@ class Html extends Component {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
-          <title>Gatsbygram</title>
+          <title>ABSgram</title>
           <TypographyStyle typography={typography} />
           {css}
         </head>

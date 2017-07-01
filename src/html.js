@@ -50,7 +50,7 @@ class Html extends Component {
           <meta charSet="utf-8" />
           <meta
             name="description"
-            content="Gatsbygram: A clone of Instagram built with GatsbyJS"
+            content="ABSgram"
           />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <link rel="icon" type="image/png" href={logo} />

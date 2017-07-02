@@ -1,6 +1,6 @@
 import * as PropTypes from "prop-types"
 import React from "react"
-import Icon from "https://github.com/absullivan/trimalchio/blob/master/static/images/logo.png"
+import logo from "https://lut.im/nGZI5v4NqX/DUFRW4NVa1kpL821.png"
 import Link from "gatsby-link"
 
 // Load the css for the Space Mono font.
@@ -111,7 +111,7 @@ class DefaultLayout extends React.Component {
                   overflow: `hidden`,
                 }}
               >
-                <logo.png
+                <logo
                   css={{
                     top: -4,
                     display: `inline-block`,

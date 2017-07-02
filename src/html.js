@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import { TypographyStyle } from "react-typography"
-import logo from "./static/images/logo.png"
+import logo from "https://github.com/absullivan/trimalchio/blob/master/static/images/logo.png"
 import * as PropTypes from "prop-types"
 import typography from "./utils/typography"
 

@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import { TypographyStyle } from "react-typography"
-import Icon from "https://github.com/absullivan/trimalchio/blob/master/static/images/logo.png"
+import icon from "https://lut.im/nGZI5v4NqX/DUFRW4NVa1kpL821.png"
 import * as PropTypes from "prop-types"
 import typography from "./utils/typography"
 
@@ -53,7 +53,7 @@ class Html extends Component {
             content="ABSgram"
           />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <link rel="icon" type="image/png" href={logo} />
+          <link rel="icon" type="image/png" href= "https://lut.im/nGZI5v4NqX/DUFRW4NVa1kpL821.png" />
           <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"

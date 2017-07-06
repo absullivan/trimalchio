@@ -11,8 +11,8 @@ class About extends React.Component {
       >
         <h1>About ABSgram</h1>
         <p>
-          ABSgram is a fork of Gatsbygram. Gatsbygram's site says it is: an example website built with the JavaScript web
-          framework
+          ABSgram is a fork of Gatsbygram. Gatsbygram's site says it is an, "example website built with the JavaScript web
+          framework"
           {` `}
           <a target="_blank" href="https://github.com/gatsbyjs/gatsby">
             Gatsby
@@ -20,7 +20,7 @@ class About extends React.Component {
           .
         </p>
         <p>
-          The code for the site lives at{` `}
+          The site's code is here {` `}
           <a
             href="https://github.com/gatsbyjs/gatsby/tree/1.0/examples/gatsbygram"
             target="_blank"
@@ -30,7 +30,7 @@ class About extends React.Component {
         </p>
         <p>
           <a href="https://www.gatsbyjs.org/blog/gatsbygram-case-study/">
-            Read a case study on how Gatsbygram was built
+            There is a case study on how to build Gatsbygram
           </a>
         </p>
       </div>
